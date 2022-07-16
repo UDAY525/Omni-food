@@ -13,7 +13,7 @@ Landing page of a fictitious startup called "Omnifood".
 -   [x] Navigation with smooth scrolling
 -   [x] Differentiated navigation for mobile layout
 
-## 🛠️ Tecnologias Usadas
+## 🛠️ Technologies Used
 
 -   HTML 5
 -   CSS 3
